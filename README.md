@@ -21,7 +21,7 @@
 ```bash
 npm i -d
 npm run build
-docker-compose up --build
+docker-compose up -dV --build
 ```
 
 
